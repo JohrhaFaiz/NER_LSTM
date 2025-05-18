@@ -1,0 +1,2 @@
+MODEL_PATH = "models/ner_lstm_model.pt"
+torch.save(model.state_dict(), MODEL_PATH)
